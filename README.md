@@ -1,5 +1,5 @@
 # Rocky
-for i in range(0,10,2):
+for i in range(0,10,3):
     print(i)
-    if i%2==0:
-        print("even num")
+    if i%3==0:
+        print("odd num")
